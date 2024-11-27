@@ -1,9 +1,8 @@
-# Hola! soy Michelle Luna 👩🏻‍💻
+# Hola!👋🏻 soy Michelle Luna 👩🏻‍💻
 
 ## 🌟 Acerca de mí  
-- 📚 Me gusta leer 
 - 🎓 Actualmente soy estudiante, aprendiendo y creciendo cada día.  
-- 🌍 Vivo en Viña del Mar, Chile🇨🇱  
+- 🏡 Vivo en Viña del Mar, Chile🇨🇱  
 
 ## 🚀 En mi GitHub encontrarás  
 - Proyectos pequeños para practicar y aplicar lo aprendido.  
