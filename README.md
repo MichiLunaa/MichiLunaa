@@ -1,4 +1,4 @@
-# 👩‍💻 Hola! soy Michelle Luna  
+# Hola! soy Michelle Luna 👩🏻‍💻
 
 ## 🌟 Acerca de mí  
 - 📚 Me gusta leer 
