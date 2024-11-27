@@ -1,6 +1,4 @@
-# 👩‍💻 Michelle Luna  
-
-¡Hola! Soy Michelle Luna, estudiante con muchas ganas de aprender y explorar nuevas tecnologías.
+# 👩‍💻 Hola! soy Michelle Luna  
 
 ## 🌟 Acerca de mí  
 - 📚 Me gusta leer 
