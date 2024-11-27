@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @MichiLunaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👩‍💻 Michelle Luna  
+
+¡Hola! Soy Michelle Luna, estudiante con muchas ganas de aprender y explorar nuevas tecnologías.
+
+## 🌟 Acerca de mí  
+- 📚 Me gusta leer 
+- 🎓 Actualmente soy estudiante, aprendiendo y creciendo cada día.  
+- 🌍 Vivo en Viña del Mar, Chile🇨🇱  
+- 
+
+## 🚀 En mi GitHub encontrarás  
+- Proyectos pequeños para practicar y aplicar lo aprendido.  
+- Mis experimentos con diferentes lenguajes y tecnologías.  
+
+¡Gracias por visitar mi perfil! 😊
 
 <!---
 MichiLunaa/MichiLunaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
