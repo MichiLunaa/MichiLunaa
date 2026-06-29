@@ -9,7 +9,6 @@
 - Mis experimentos con diferentes lenguajes y tecnologías.  
 
 ¡Gracias por visitar mi perfil! 😊
-Aqui tienes mi perfil de Netlify ---> https://app.netlify.com/teams/michelle-luna-perez/projects 👩🏻‍💻
 
 <!---
 MichiLunaa/MichiLunaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
